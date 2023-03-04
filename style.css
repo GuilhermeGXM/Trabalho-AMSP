@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Sedgwick+Ave+Display&display=swap');
+*{
+    font-size: 15pt;
+    margin: 0;
+    padding: 0;
+    font-family: arial;
+}
+.title{
+  color: deeppink;
+  background: lightpink;
+  padding: 20px 0px;
+  text-align: center;
+  font-family: 'Sedgwick Ave Display', cursive;
+  font-size: 1.7em;
+  border-bottom: 2px solid deeppink;
+  text-shadow: #000 1px 1px 0.1em;
+  box-shadow: #555 0.0em 0.0em 0.2em;
+}
+.textos{
+  margin: 10px 35px;
+  border: 2px solid deeppink;
+  border-radius: 5px;
+  text-align: center;
+  box-shadow: #555 0.0em 0.0em 0.5em;
+}
+.textos p{
+  color: #111;
+  font-family: georgia;
+  text-align: justify;
+  padding: 5px 10px;
+}
+.textos img{
+  width: 50%;
+}
+.textos h2{
+  font-size: 1.5em;
+  padding: 20px 0px 20px 0px;
+  text-align: center;
+  font-family: courier;
+  text-shadow: #777 0.7px 0.7px 0.5px
+}
+.footer{
+  border-top: 2px solid hotpink;
+  box-shadow: #555 0.0em 0.0em 0.2em;
+  background: lightpink;
+  text-align: center;
+  padding: 25px 0px;
+}
+.footer p{
+  font-size: 15px;
+}
